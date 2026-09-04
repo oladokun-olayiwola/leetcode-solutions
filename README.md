@@ -31,13 +31,13 @@ After completing a solution:
 ## Commit Message Convention
 
 ```text
-Add solution for LeetCode <problem-number>
+Add solution for LeetCode <problem-number>(language)
 ```
 
 Example:
 
 ```text
-Add solution for LeetCode 1624
+Add solution for LeetCode 1624(TypeScript)
 ```
 
 ## Solution Information
