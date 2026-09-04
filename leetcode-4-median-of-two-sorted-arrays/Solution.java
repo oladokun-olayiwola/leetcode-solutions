@@ -10,8 +10,8 @@ class Solution {
         };
         for (int i = 0; i < nums2.length; i++) {
             joinedArray.add(nums2[i]);
-            Collections.sort(joinedArray);
         };
+        Collections.sort(joinedArray);
 
         int size = joinedArray.size();
         double median;
